@@ -12,10 +12,11 @@ This project focuses on the production process and nutritional value of barley b
 
 ## Collaborators
 - groupe 02
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
+- imad  
+- alaa deriouech  
+- lina houari
+- kawthar rahmoun
+- oussama hafsa
 
 ---
 
