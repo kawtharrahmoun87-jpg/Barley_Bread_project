@@ -20,6 +20,17 @@ This project focuses on the production process and nutritional value of barley b
 ---
 
 📘 *Project done for the Open Source module – 2025*
+
+### Nutritional Value of Barley Bread
+
+Barley bread is rich in nutrients that support a healthy diet:
+
+- **Fiber:** Helps digestion and lowers cholesterol.  
+- **Protein:** Supports body repair and muscle growth.  
+- **Vitamins (B-complex):** Improve energy metabolism.  
+- **Minerals:** Contains iron, magnesium, phosphorus, and zinc.  
+- **Low Glycemic Index:** Helps regulate blood sugar levels.
+
 ### Steps of Barley Bread Production
 
 1. **Cleaning** – Remove dust and impurities from barley grains.  
