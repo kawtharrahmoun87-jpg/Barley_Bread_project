@@ -11,7 +11,7 @@ This project focuses on the production process and nutritional value of barley b
 - Evaluation by the instructor  
 
 ## Collaborators
-- groupe 02
+- groupe 2
 - imad  
 - alaa deriouech  
 - lina houari
