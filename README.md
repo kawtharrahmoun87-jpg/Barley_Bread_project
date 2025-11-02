@@ -31,7 +31,7 @@ Barley Bread
 5. Quality Control and Storage  
 6. Conclusion
 
- introducion    .....
+ 
 ### 2 Nutritional Value of Barley Bread
 
 Barley bread is rich in nutrients that support a healthy diet:
@@ -85,4 +85,4 @@ Barley bread is a healthy product rich in fiber and nutrients, but it contains l
 - Use airtight packaging to prevent mold and staling.  
 - Shelf life: 2–4 days at room temperature; longer when refrigerated or frozen.
 
-conclution
+
