@@ -69,3 +69,18 @@ Barley bread provides many health benefits due to its high content of fiber, vit
 - Suitable for people who need more fiber in their diet.
 -  Sometimes used in traditional and medicinal diets to improve metabolism and gut health.
          
+5/-# Quality Control and Storage of Barley Bread
+
+## Overview
+Barley bread is a healthy product rich in fiber and nutrients, but it contains less gluten than wheat bread, resulting in a denser texture and shorter shelf life.
+
+## Quality Control
+- Inspect barley flour for purity, moisture, and safety.  
+- Control dough mixing, fermentation, and baking temperature.  
+- Test final bread for texture, taste, and microbial quality.
+
+## Storage
+- Store in a cool, dry place (~20°C, 60% RH).  
+- Use airtight packaging to prevent mold and staling.  
+- Shelf life: 2–4 days at room temperature; longer when refrigerated or frozen.
+
