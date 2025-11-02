@@ -12,7 +12,7 @@ This project focuses on the production process and nutritional value of barley b
 
 ## Collaborators
 - groupe 2 (anp)
-- imad  
+- imad brahmi
 - alaa deriouech  
 - lina houari
 - kawthar rahmoun
