@@ -12,7 +12,7 @@ This project focuses on the production process and nutritional value of barley b
 
 ## Collaborators
 - groupe 2 (anp)
-- imad brahmi
+- imad  
 - alaa deriouech  
 - lina houari
 - kawthar rahmoun
@@ -30,7 +30,7 @@ Barley Bread
 4. Health Benefits and Uses  
 5. Quality Control and Storage  
 6. Conclusion
-### 1 inrtoduction 
+### 1. Inrtoduction 
 
 
 **Barley bread** is a type of bread made primarily from **barley flour**, which is derived from the grain of the barley plant.  
@@ -47,7 +47,7 @@ Because barley has **no gluten**, recipes often combine barley flour with wheat 
 The bread baking process typically involves a **longer fermentation or pre-ferment stage** to develop flavor and dough strength.
 
 Traditionally, barley bread has been a **staple in many cultures**, including **Hebrew, Greek, Roman, and Egyptian**, and it remains a **wholesome alternative** to refined wheat bread today.  
-It can be baked in various forms, including **pocket-style breads or loaves**, sometimes topped with **seeds*.|
+It can be baked in various forms, including **pocket-style breads or loaves**, sometimes topped with **seeds*.
 
 ### 2 Nutritional Value of Barley Bread
 
@@ -101,5 +101,16 @@ Barley bread is a healthy product rich in fiber and nutrients, but it contains l
 - Store in a cool, dry place (~20°C, 60% RH).  
 - Use airtight packaging to prevent mold and staling.  
 - Shelf life: 2–4 days at room temperature; longer when refrigerated or frozen.
+
+### 6.Conclusion
+
+A conclusion for barley bread could emphasize its health benefits, sensory qualities, and potential role in sustainable food systems.  
+
+**Barley bread offers notable health advantages**, such as improved glucose tolerance and beneficial impacts on lipid profiles, making it a nutritious alternative to traditional wheat bread.  
+
+Its unique flavor and texture, especially when including whole barley grains or flakes, appeal to many consumers, enhancing its sensory value.  
+
+Additionally, barley’s lower nitrogen requirement for cultivation supports more sustainable agricultural practices. Therefore, incorporating barley into bread not only promotes better health but also aligns with environmental sustainability goals, suggesting a promising future for barley bread in both dietary and ecological contexts.  
+
 
 
