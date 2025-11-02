@@ -69,7 +69,7 @@ Barley bread provides many health benefits due to its high content of fiber, vit
 - Suitable for people who need more fiber in their diet.
 -  Sometimes used in traditional and medicinal diets to improve metabolism and gut health.
          
-5/-# Quality Control and Storage of Barley Bread
+##5/- Quality Control and Storage of Barley Bread
 
 ## Overview
 Barley bread is a healthy product rich in fiber and nutrients, but it contains less gluten than wheat bread, resulting in a denser texture and shorter shelf life.
